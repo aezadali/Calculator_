@@ -10,6 +10,11 @@ namespace calculator
     {
         static void Main(string[] args)
         {
+            char no;
+            double num1, num2;
+
+            Console.WriteLine("choose your operation (+)");
+            Console.ReadLine();
         }
     }
 }
