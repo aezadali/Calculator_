@@ -15,6 +15,7 @@ namespace calculator
 
             Console.WriteLine("choose your operation (+)");
             Console.ReadLine();
+            Console.WriteLine("Forked by Aezad 085 - Software Engineering);
         }
     }
 }
